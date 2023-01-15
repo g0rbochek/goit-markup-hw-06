@@ -723,7 +723,7 @@ img {
 
 .check__input:checked+.check__box {
     background-color: var(--primary-brand);
-    background-image: url(./images/sprite/accept.svg);
+    background-image: url(../images/sprite/accept.svg);
 }
 
 /* Focused */
